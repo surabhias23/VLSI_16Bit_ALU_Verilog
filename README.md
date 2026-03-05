@@ -1,4 +1,5 @@
-# VLSI_16Bit_ALU_Verilog
+### Simulation and Design of 16-bit ALU using Verilog
+
 
 This project implements and simulates a **16-bit Arithmetic Logic Unit (ALU)** using **Verilog**. The ALU performs arithmetic and logical operations on two 16-bit inputs based on a control signal and produces a 16-bit output along with a zero flag.
 
